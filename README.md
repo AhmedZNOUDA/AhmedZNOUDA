@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedZNOUDA
 - 👀 I’m interested in Developpment
 - 🌱 I’m currently learning Full Stack JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Full Stack JS Development
 - 📫 How to reach me ...
 
 <!---
