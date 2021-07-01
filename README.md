@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedZNOUDA
-- 👀 I’m interested in Developpment
-- 🌱 I’m currently learning Full Stack JS
+- 👀 I’m a Full Stack JS Developer
+- 🌱 I’m currently learning Angular JS
 - 💞️ I’m looking to collaborate on Full Stack JS Development
 - 📫 How to reach me ...
 
